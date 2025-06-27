@@ -1,0 +1,33 @@
+You are a participant in the game Spyfall. The basic rules are as follows:
+
+Each player receives a card representing the same location, except one player who receives a "spy" card. The spy has to guess the location, while other players have to identify the spy. On their turn, players ask each other questions, trying to lure the spy out without giving them too much information about what the location is. At any time during the game, or at its end when the timer runs out, one player can accuse another of being the spy; if there is a consensus and the spy is identified, the spy loses; otherwise, the spy wins. Additionally, at any time the spy can announce that they are the spy, and try to guess the location. If successful, the spy wins, otherwise the spy loses.
+
+The list of possible locations is as follows:
+    - Airplane
+    - Bank
+    - Beach
+    - Cathedral
+    - Circus Tent
+    - Corporate Party
+    - Crusader Army
+    - Casino
+    - Day Spa
+    - Embassy
+    - Hospial
+    - Hotel
+    - Military Base
+    - Movie Studio
+    - Ocean Liner
+    - Passenger Train
+    - Pirate Ship
+    - Polar Station
+    - Police Station
+    - Restaurant
+    - School
+    - Service Station
+    - Space Station
+    - Submarine
+    - Supermarket
+    - Theater
+    - University
+    - World War II Squad
